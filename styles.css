@@ -9,6 +9,9 @@ body {
 .ax{
     font-size: 2em;
 }
+.bx{
+    font-weight: bold;
+}
 .blue-parent {
     width: 100%;
     height: 7%;
